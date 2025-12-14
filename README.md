@@ -23,9 +23,9 @@ It should work with any N64 game that uses **256 Kilobits (32KB) SRAM** for save
 - 1080 Snowboarding
 - F-Zero X
 - Harvest Moon 64
-- Legend of Zelda: Ocarina of Time ✓ *tested*
+- Legend of Zelda: Ocarina of Time (PAL) ✓ *tested*
 - Major League Baseball featuring Ken Griffey Jr.
-- Mario Golf ✓ *tested*
+- Mario Golf (JP) ✓ *tested*
 - New Tetris, The
 - Ogre Battle 64: Person of Lordly Caliber
 - Resident Evil 2
